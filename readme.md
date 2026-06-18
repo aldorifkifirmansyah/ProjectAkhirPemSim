@@ -109,9 +109,12 @@ Memuat hasil kalkulasi asli dari jurnal acuan untuk menghitung nilai simpangan (
 
 ```csv
 blok_jam,rho_jurnal,wq_jurnal,ws_jurnal
-A,0.429,15.0,6.43
-B,0.625,20.0,12.50
-C,0.625,20.0,12.50
+A,0.429,6.43,15.0
+B,0.625,12.5,20.0
+C,0.625,12.5,20.0
+D,0.375,4.5,12.0
+E,0.333,5.0,15.0
+F,0.286,3.43,12.0
 ```
 
 ---
